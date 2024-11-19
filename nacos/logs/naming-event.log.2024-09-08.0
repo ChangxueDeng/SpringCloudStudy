@@ -1,0 +1,54 @@
+2024-09-08 00:00:39,575 INFO [IP-UPDATED] namespace: 78bef756-8e60-43d9-8239-773b329381b2, service: DEFAULT_GROUP@@borrow-service, ips: 192.168.56.1:8301_true,
+
+2024-09-08 00:00:39,586 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-08 00:00:39,586 INFO [IP-UPDATED] namespace: 78bef756-8e60-43d9-8239-773b329381b2, service: DEFAULT_GROUP@@user-service, ips: 
+
+2024-09-08 00:00:39,587 INFO [IP-UPDATED] namespace: 78bef756-8e60-43d9-8239-773b329381b2, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,192.168.56.1:8101_true,
+
+2024-09-08 00:00:39,605 INFO [IP-UPDATED] namespace: 78bef756-8e60-43d9-8239-773b329381b2, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,192.168.56.1:8101_true,
+
+2024-09-08 00:00:40,111 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8102@haikou in 1, msg: tcp:timeout
+
+2024-09-08 00:00:40,111 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8101@Haikou in 1, msg: tcp:timeout
+
+2024-09-08 00:00:40,440 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8301@haikou in 1, msg: tcp:timeout
+
+2024-09-08 00:00:40,501 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8102@DEFAULT in 1, msg: tcp:timeout
+
+2024-09-08 00:00:40,501 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8101@DEFAULT in 1, msg: tcp:timeout
+
+2024-09-08 00:00:40,988 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8301@DEFAULT in 1, msg: tcp:timeout
+
+2024-09-08 00:00:41,115 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8102@haikou in 2, msg: tcp:timeout
+
+2024-09-08 00:00:41,115 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8101@Haikou in 2, msg: tcp:timeout
+
+2024-09-08 00:00:41,434 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8301@haikou in 2, msg: tcp:timeout
+
+2024-09-08 00:00:41,514 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8101@DEFAULT in 2, msg: tcp:timeout
+
+2024-09-08 00:00:41,514 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8102@DEFAULT in 2, msg: tcp:timeout
+
+2024-09-08 00:00:41,827 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8102@haikou, region: unknown, msg: tcp:timeout
+
+2024-09-08 00:00:41,952 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8301@haikou, region: unknown, msg: tcp:timeout
+
+2024-09-08 00:00:41,999 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8301@DEFAULT in 2, msg: tcp:timeout
+
+2024-09-08 00:00:42,263 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8101@DEFAULT, region: unknown, msg: tcp:timeout
+
+2024-09-08 00:00:42,388 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8102@haikou, region: unknown, msg: tcp:timeout
+
+2024-09-08 00:00:42,388 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8101@Haikou, region: unknown, msg: tcp:timeout
+
+2024-09-08 00:00:42,699 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8301@haikou, region: unknown, msg: tcp:timeout
+
+2024-09-08 00:00:42,962 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8101@DEFAULT, region: unknown, msg: tcp:timeout
+
+2024-09-08 00:00:42,962 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8102@DEFAULT, region: unknown, msg: tcp:timeout
+
+2024-09-08 00:00:43,270 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8301@DEFAULT, region: unknown, msg: tcp:timeout
+
+2024-09-08 00:00:59,377 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+

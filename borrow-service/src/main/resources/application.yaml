@@ -1,0 +1,24 @@
+server:
+  port: 8301
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://8.217.219.86:3306/cloudstudy
+    username: root
+    password: RiHP%Ub5E#@R7d*3h8bKScDH
+  application:
+    name: borrow-service
+  cloud:
+    nacos:
+      discovery:
+        # 配置Nacos注册中心地址
+        server-addr: localhost:8848
+        ephemeral: false
+        cluster-name: haikou
+        namespace: 78bef756-8e60-43d9-8239-773b329381b2
+    loadbalancer:
+      nacos:
+        enabled: true
+    sentinel:
+      transport:
+        dashboard: localhost:8858

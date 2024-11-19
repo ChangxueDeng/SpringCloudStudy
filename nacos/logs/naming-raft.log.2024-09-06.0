@@ -1,0 +1,50 @@
+2024-09-06 23:50:10,768 INFO raft peers changed: [Member{ip='192.168.56.1', port=8848, state=UP, extendInfo={raftPort=7848}}]
+
+2024-09-06 23:50:10,792 INFO initializing Raft sub-system
+
+2024-09-06 23:50:10,793 INFO finish loading all datums, size: 0 cost 1 ms.
+
+2024-09-06 23:50:10,796 INFO cache loaded, datum count: 0, current term: 0
+
+2024-09-06 23:50:10,796 INFO finish to load data from disk, cost: 4 ms.
+
+2024-09-06 23:50:10,799 INFO timer started: leader timeout ms: 15000, heart-beat timeout ms: 5000
+
+2024-09-06 23:50:12,019 INFO add listener: com.alibaba.nacos.naming.domains.meta.00-00---000-NACOS_SWITCH_DOMAIN-000---00-00
+
+2024-09-06 23:50:12,043 INFO add listener: com.alibaba.nacos.naming.domains.meta.
+
+2024-09-06 23:50:13,845 INFO leader timeout, start voting,leader: {"ip":"192.168.56.1:8848","term":0,"leaderDueMs":17544,"heartbeatDueMs":5000,"state":"FOLLOWER"}, term: 0
+
+2024-09-06 23:50:15,758 WARN start to close old raft protocol!!!
+
+2024-09-06 23:50:15,758 WARN stop old raft protocol task for notifier
+
+2024-09-06 23:50:15,758 WARN stop old raft protocol task for master task
+
+2024-09-06 23:50:15,758 WARN stop old raft protocol task for heartbeat task
+
+2024-09-06 23:50:15,758 WARN clean old cache datum for old raft
+
+2024-09-06 23:50:15,758 WARN start to close old raft protocol!!!
+
+2024-09-06 23:50:15,758 WARN stop old raft protocol task for notifier
+
+2024-09-06 23:50:15,758 WARN stop old raft protocol task for master task
+
+2024-09-06 23:50:15,758 WARN stop old raft protocol task for heartbeat task
+
+2024-09-06 23:50:15,758 WARN clean old cache datum for old raft
+
+2024-09-06 23:50:15,758 WARN start to move old raft protocol metadata
+
+2024-09-06 23:50:15,759 WARN start to move old raft protocol metadata
+
+2024-09-06 23:50:15,760 INFO raft peers changed: [Member{ip='192.168.56.1', port=8848, state=UP, extendInfo={lastRefreshTime=1725637815759, raftPort=7848, version=1.4.3}}]
+
+2024-09-06 23:54:48,965 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@book-service
+
+2024-09-06 23:56:32,490 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@borrow-service
+
+2024-09-06 23:56:37,510 INFO add listener: com.alibaba.nacos.naming.iplist.public##DEFAULT_GROUP@@user-service
+

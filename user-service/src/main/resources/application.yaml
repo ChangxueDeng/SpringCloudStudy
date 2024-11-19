@@ -1,0 +1,14 @@
+server:
+  port: 8201
+spring:
+  application:
+    name: user-service
+  cloud:
+    nacos:
+      discovery:
+        # 配置Nacos注册中心地址
+        server-addr: localhost:8848
+        namespace: 78bef756-8e60-43d9-8239-773b329381b2
+    sentinel:
+      transport:
+        dashboard: localhost:8858

@@ -1,0 +1,404 @@
+2024-09-07 00:02:14,827 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8103:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:02:14,828 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 
+
+2024-09-07 00:02:35,310 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8103:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:02:35,310 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 192.168.56.1:8103_true,
+
+2024-09-07 00:02:40,997 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8103:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:02:40,997 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 
+
+2024-09-07 00:02:58,938 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8103:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:02:58,938 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 192.168.56.1:8103_true,
+
+2024-09-07 00:04:07,151 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8103:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:04:07,151 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 
+
+2024-09-07 00:04:07,151 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:04:07,151 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 
+
+2024-09-07 00:04:07,155 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:04:07,155 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2024-09-07 00:04:21,033 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:04:21,033 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 192.168.56.1:8201_true,
+
+2024-09-07 00:04:22,809 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:04:22,809 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 192.168.56.1:8301_true,
+
+2024-09-07 00:04:24,113 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:04:24,113 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8101_true,
+
+2024-09-07 00:06:43,538 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:06:43,538 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,192.168.56.1:8101_true,
+
+2024-09-07 00:07:32,923 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:07:32,924 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,
+
+2024-09-07 00:07:32,927 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:07:32,927 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 
+
+2024-09-07 00:07:47,921 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:07:47,921 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,
+
+2024-09-07 00:07:49,350 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:07:49,350 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,192.168.56.1:8101_true,
+
+2024-09-07 00:10:29,861 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:10:29,861 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8101_true,
+
+2024-09-07 00:10:29,879 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:10:29,879 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 
+
+2024-09-07 00:10:37,740 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:10:37,740 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 
+
+2024-09-07 00:10:47,018 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8102:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:10:47,018 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,
+
+2024-09-07 00:10:48,511 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:10:48,511 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,192.168.56.1:8101_true,
+
+2024-09-07 00:10:49,507 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8102@DEFAULT in 1, msg: tcp:ok+
+
+2024-09-07 00:10:49,507 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8101@DEFAULT in 1, msg: tcp:ok+
+
+2024-09-07 00:10:53,108 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8102@DEFAULT in 2, msg: tcp:ok+
+
+2024-09-07 00:10:53,108 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8101@DEFAULT in 2, msg: tcp:ok+
+
+2024-09-07 00:10:55,815 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8101@DEFAULT, region: unknown, msg: tcp:ok+
+
+2024-09-07 00:10:55,815 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8102@DEFAULT, region: unknown, msg: tcp:ok+
+
+2024-09-07 00:11:02,738 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:11:02,738 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 192.168.56.1:8301_true,
+
+2024-09-07 00:11:07,223 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8301@DEFAULT in 1, msg: tcp:ok+
+
+2024-09-07 00:11:12,023 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8301@DEFAULT in 2, msg: tcp:ok+
+
+2024-09-07 00:11:13,961 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,192.168.56.1:8101_true,
+
+2024-09-07 00:11:15,095 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8101@DEFAULT in 1, msg: tcp:timeout
+
+2024-09-07 00:11:15,635 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 192.168.56.1:8301@DEFAULT, region: unknown, msg: tcp:ok+
+
+2024-09-07 00:11:16,105 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8101@DEFAULT in 2, msg: tcp:timeout
+
+2024-09-07 00:11:17,362 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8101@DEFAULT, region: unknown, msg: tcp:timeout
+
+2024-09-07 00:11:30,701 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 192.168.56.1:8301_true,
+
+2024-09-07 00:11:31,646 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8301@DEFAULT in 1, msg: tcp:timeout
+
+2024-09-07 00:11:32,468 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 00:11:32,468 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2024-09-07 00:11:32,472 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,192.168.56.1:8101_false,
+
+2024-09-07 00:11:32,642 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8301@DEFAULT in 2, msg: tcp:timeout
+
+2024-09-07 00:11:33,731 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8102@DEFAULT in 1, msg: tcp:timeout
+
+2024-09-07 00:11:33,904 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8301@DEFAULT, region: unknown, msg: tcp:timeout
+
+2024-09-07 00:11:34,980 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8102@DEFAULT in 2, msg: tcp:timeout
+
+2024-09-07 00:11:36,795 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8102@DEFAULT, region: unknown, msg: tcp:timeout
+
+2024-09-07 00:12:07,195 ERROR [UPDATE-DOMAIN] Exception while taking item from LinkedBlockingDeque.
+
+2024-09-07 23:30:11,842 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 2, content: [192.168.56.1:8102:unknown:DEFAULT_1.0_true_false_DEFAULT, 192.168.56.1:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 23:30:11,846 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,192.168.56.1:8101_true,
+
+2024-09-07 23:30:11,846 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8301:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 23:30:11,846 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 192.168.56.1:8301_true,
+
+2024-09-07 23:30:11,881 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: Haikou, new ips size: 1, content: [192.168.56.1:8101:unknown:Haikou_1.0_true_false_Haikou]
+
+2024-09-07 23:30:11,882 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8101_true,192.168.56.1:8102_true,192.168.56.1:8101_true,
+
+2024-09-07 23:30:11,918 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 192.168.56.1:8301_true,
+
+2024-09-07 23:30:11,930 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: haikou, new ips size: 1, content: [192.168.56.1:8102:unknown:haikou_1.0_true_false_haikou]
+
+2024-09-07 23:30:11,930 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,192.168.56.1:8101_true,192.168.56.1:8101_true,192.168.56.1:8102_true,
+
+2024-09-07 23:30:11,931 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 192.168.56.1:8301_true,
+
+2024-09-07 23:30:11,932 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,192.168.56.1:8101_true,192.168.56.1:8101_true,192.168.56.1:8102_true,
+
+2024-09-07 23:30:12,028 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 23:30:12,028 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 192.168.56.1:8201_true,
+
+2024-09-07 23:30:14,063 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8301@DEFAULT in 1, msg: tcp:ok+
+
+2024-09-07 23:30:14,170 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8101@Haikou in 1, msg: tcp:ok+
+
+2024-09-07 23:30:14,942 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8101@DEFAULT in 1, msg: tcp:ok+
+
+2024-09-07 23:30:14,942 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8102@DEFAULT in 1, msg: tcp:ok+
+
+2024-09-07 23:30:15,766 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8102@haikou in 1, msg: tcp:ok+
+
+2024-09-07 23:30:16,265 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8301@DEFAULT in 2, msg: tcp:ok+
+
+2024-09-07 23:30:16,499 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8101@Haikou in 2, msg: tcp:ok+
+
+2024-09-07 23:30:17,918 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 192.168.56.1:8301@DEFAULT, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:30:18,043 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8102@DEFAULT in 2, msg: tcp:ok+
+
+2024-09-07 23:30:18,043 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8101@DEFAULT in 2, msg: tcp:ok+
+
+2024-09-07 23:30:18,259 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8101@Haikou, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:30:19,607 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8102@haikou in 2, msg: tcp:ok+
+
+2024-09-07 23:30:19,795 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8101@DEFAULT, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:30:19,795 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8102@DEFAULT, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:30:22,487 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8102@haikou, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:31:32,550 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,192.168.56.1:8101_true,192.168.56.1:8101_true,192.168.56.1:8102_true,
+
+2024-09-07 23:31:32,551 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,192.168.56.1:8101_true,192.168.56.1:8101_true,192.168.56.1:8102_true,
+
+2024-09-07 23:31:33,594 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8102@haikou in 1, msg: tcp:timeout
+
+2024-09-07 23:31:33,688 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8101@Haikou in 1, msg: tcp:timeout
+
+2024-09-07 23:31:33,903 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8101@DEFAULT in 1, msg: tcp:timeout
+
+2024-09-07 23:31:33,903 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8102@DEFAULT in 1, msg: tcp:timeout
+
+2024-09-07 23:31:34,604 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8102@haikou in 2, msg: tcp:timeout
+
+2024-09-07 23:31:34,698 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8101@Haikou in 2, msg: tcp:timeout
+
+2024-09-07 23:31:34,916 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8102@DEFAULT in 2, msg: tcp:timeout
+
+2024-09-07 23:31:34,916 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8101@DEFAULT in 2, msg: tcp:timeout
+
+2024-09-07 23:31:35,866 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8102@haikou, region: unknown, msg: tcp:timeout
+
+2024-09-07 23:31:35,961 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8101@Haikou, region: unknown, msg: tcp:timeout
+
+2024-09-07 23:31:36,180 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8102@DEFAULT, region: unknown, msg: tcp:timeout
+
+2024-09-07 23:31:36,180 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8101@DEFAULT, region: unknown, msg: tcp:timeout
+
+2024-09-07 23:31:44,667 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_false,192.168.56.1:8101_false,192.168.56.1:8101_false,192.168.56.1:8102_false,
+
+2024-09-07 23:31:46,220 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_false,192.168.56.1:8101_false,192.168.56.1:8101_false,192.168.56.1:8102_false,
+
+2024-09-07 23:31:48,212 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8102@haikou in 1, msg: tcp:ok+
+
+2024-09-07 23:31:48,317 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8101@Haikou in 1, msg: tcp:ok+
+
+2024-09-07 23:31:48,784 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8101@DEFAULT in 1, msg: tcp:ok+
+
+2024-09-07 23:31:48,784 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8102@DEFAULT in 1, msg: tcp:ok+
+
+2024-09-07 23:31:52,990 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8102@haikou in 2, msg: tcp:ok+
+
+2024-09-07 23:31:53,084 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8101@Haikou in 2, msg: tcp:ok+
+
+2024-09-07 23:31:53,798 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8102@DEFAULT in 2, msg: tcp:ok+
+
+2024-09-07 23:31:53,798 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8101@DEFAULT in 2, msg: tcp:ok+
+
+2024-09-07 23:31:56,578 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8102@haikou, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:31:56,624 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8102@DEFAULT, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:31:56,624 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8101@DEFAULT, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:31:56,671 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8101@Haikou, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:36:26,424 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 192.168.56.1:8301_true,
+
+2024-09-07 23:36:26,946 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8301@DEFAULT in 1, msg: tcp:timeout
+
+2024-09-07 23:36:27,953 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8301@DEFAULT in 2, msg: tcp:timeout
+
+2024-09-07 23:36:29,215 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8301@DEFAULT, region: unknown, msg: tcp:timeout
+
+2024-09-07 23:36:41,039 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: haikou, new ips size: 1, content: [192.168.56.1:8301:unknown:haikou_1.0_true_false_haikou]
+
+2024-09-07 23:36:41,039 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 192.168.56.1:8301_true,192.168.56.1:8301_false,
+
+2024-09-07 23:36:41,567 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8301@DEFAULT in 1, msg: tcp:ok+
+
+2024-09-07 23:36:45,940 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8301@haikou in 1, msg: tcp:ok+
+
+2024-09-07 23:36:46,346 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8301@DEFAULT in 2, msg: tcp:ok+
+
+2024-09-07 23:36:49,923 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 192.168.56.1:8301@DEFAULT, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:36:50,850 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8301@haikou in 2, msg: tcp:ok+
+
+2024-09-07 23:36:54,534 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 192.168.56.1:8301@haikou, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:37:32,721 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,192.168.56.1:8101_true,192.168.56.1:8101_true,192.168.56.1:8102_true,
+
+2024-09-07 23:37:32,786 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8102@haikou, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:37:33,006 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8101@Haikou, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:37:33,265 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8101@DEFAULT, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:37:33,265 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8102@DEFAULT, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:37:45,437 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,192.168.56.1:8101_true,192.168.56.1:8101_true,192.168.56.1:8102_true,
+
+2024-09-07 23:37:45,895 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8102@haikou, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:37:46,111 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8101@Haikou, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:37:46,393 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8101@DEFAULT, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:37:46,393 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8102@DEFAULT, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:40:38,667 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 23:40:38,667 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2024-09-07 23:45:20,275 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 23:45:20,275 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 192.168.56.1:8201_true,
+
+2024-09-07 23:52:22,880 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,192.168.56.1:8101_true,192.168.56.1:8101_true,192.168.56.1:8102_true,
+
+2024-09-07 23:52:22,895 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,192.168.56.1:8101_true,192.168.56.1:8101_true,192.168.56.1:8102_true,
+
+2024-09-07 23:52:23,415 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8102@haikou in 1, msg: tcp:timeout
+
+2024-09-07 23:52:23,462 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8101@Haikou in 1, msg: tcp:timeout
+
+2024-09-07 23:52:24,051 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8101@DEFAULT in 1, msg: tcp:timeout
+
+2024-09-07 23:52:24,051 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8102@DEFAULT in 1, msg: tcp:timeout
+
+2024-09-07 23:52:24,424 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8102@haikou in 2, msg: tcp:timeout
+
+2024-09-07 23:52:24,472 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8101@Haikou in 2, msg: tcp:timeout
+
+2024-09-07 23:52:25,062 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8102@DEFAULT in 2, msg: tcp:timeout
+
+2024-09-07 23:52:25,062 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8101@DEFAULT in 2, msg: tcp:timeout
+
+2024-09-07 23:52:25,671 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8102@haikou, region: unknown, msg: tcp:timeout
+
+2024-09-07 23:52:25,717 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8101@Haikou, region: unknown, msg: tcp:timeout
+
+2024-09-07 23:52:26,511 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8101@DEFAULT, region: unknown, msg: tcp:timeout
+
+2024-09-07 23:52:26,511 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8102@DEFAULT, region: unknown, msg: tcp:timeout
+
+2024-09-07 23:52:37,449 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-DEAD} cluster: DEFAULT, dead ips size: 1, content: [192.168.56.1:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 23:52:37,449 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@user-service, ips: 
+
+2024-09-07 23:52:46,101 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: haikou, new ips size: 1, content: [192.168.56.1:8102:unknown:haikou_1.0_true_false_haikou]
+
+2024-09-07 23:52:46,101 INFO [IP-UPDATED] namespace: 78bef756-8e60-43d9-8239-773b329381b2, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,
+
+2024-09-07 23:52:46,101 INFO [IP-UPDATED] namespace: 78bef756-8e60-43d9-8239-773b329381b2, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,
+
+2024-09-07 23:52:47,315 INFO DEFAULT_GROUP@@book-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8101:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 23:52:47,315 INFO [IP-UPDATED] namespace: 78bef756-8e60-43d9-8239-773b329381b2, service: DEFAULT_GROUP@@book-service, ips: 192.168.56.1:8102_true,192.168.56.1:8101_true,
+
+2024-09-07 23:52:47,811 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8102@haikou in 1, msg: tcp:ok+
+
+2024-09-07 23:52:47,858 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8101@Haikou in 1, msg: tcp:ok+
+
+2024-09-07 23:52:49,650 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8101@DEFAULT in 1, msg: tcp:ok+
+
+2024-09-07 23:52:49,976 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8102@haikou in 2, msg: tcp:ok+
+
+2024-09-07 23:52:50,345 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8101@DEFAULT in 2, msg: tcp:ok+
+
+2024-09-07 23:52:50,345 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8102@DEFAULT in 1, msg: tcp:ok+
+
+2024-09-07 23:52:51,991 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8101@DEFAULT, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:52:52,817 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8102@haikou, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:52:52,863 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8101@Haikou in 2, msg: tcp:ok+
+
+2024-09-07 23:52:53,855 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8102@haikou, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:52:55,350 INFO serviceName: DEFAULT_GROUP@@book-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8102@DEFAULT in 2, msg: tcp:ok+
+
+2024-09-07 23:52:55,351 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8101@DEFAULT, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:52:56,629 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8101@Haikou, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:52:58,164 INFO serviceName: DEFAULT_GROUP@@book-service {POS} {IP-ENABLED} valid: 192.168.56.1:8102@DEFAULT, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:53:04,156 INFO DEFAULT_GROUP@@user-service {SYNC} {IP-NEW} cluster: DEFAULT, new ips size: 1, content: [192.168.56.1:8201:unknown:DEFAULT_1.0_true_false_DEFAULT]
+
+2024-09-07 23:53:04,156 INFO [IP-UPDATED] namespace: 78bef756-8e60-43d9-8239-773b329381b2, service: DEFAULT_GROUP@@user-service, ips: 192.168.56.1:8201_true,
+
+2024-09-07 23:54:39,868 INFO [IP-UPDATED] namespace: public, service: DEFAULT_GROUP@@borrow-service, ips: 192.168.56.1:8301_true,192.168.56.1:8301_true,
+
+2024-09-07 23:54:40,464 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8301@haikou in 1, msg: tcp:timeout
+
+2024-09-07 23:54:40,665 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8301@DEFAULT in 1, msg: tcp:timeout
+
+2024-09-07 23:54:41,462 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8301@haikou in 2, msg: tcp:timeout
+
+2024-09-07 23:54:41,667 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-DISABLED} pre-invalid: 192.168.56.1:8301@DEFAULT in 2, msg: tcp:timeout
+
+2024-09-07 23:54:42,738 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8301@haikou, region: unknown, msg: tcp:timeout
+
+2024-09-07 23:54:42,926 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-DISABLED} invalid: 192.168.56.1:8301@DEFAULT, region: unknown, msg: tcp:timeout
+
+2024-09-07 23:55:03,845 INFO DEFAULT_GROUP@@borrow-service {SYNC} {IP-NEW} cluster: haikou, new ips size: 1, content: [192.168.56.1:8301:unknown:haikou_1.0_true_false_haikou]
+
+2024-09-07 23:55:03,845 INFO [IP-UPDATED] namespace: 78bef756-8e60-43d9-8239-773b329381b2, service: DEFAULT_GROUP@@borrow-service, ips: 192.168.56.1:8301_true,
+
+2024-09-07 23:55:03,846 INFO [IP-UPDATED] namespace: 78bef756-8e60-43d9-8239-773b329381b2, service: DEFAULT_GROUP@@borrow-service, ips: 192.168.56.1:8301_true,
+
+2024-09-07 23:55:04,868 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8301@haikou in 1, msg: tcp:ok+
+
+2024-09-07 23:55:05,054 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8301@DEFAULT in 1, msg: tcp:ok+
+
+2024-09-07 23:55:07,092 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8301@haikou in 2, msg: tcp:ok+
+
+2024-09-07 23:55:09,880 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 192.168.56.1:8301@haikou, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:55:10,067 INFO serviceName: DEFAULT_GROUP@@borrow-service {OTHER} {IP-ENABLED} pre-valid: 192.168.56.1:8301@DEFAULT in 2, msg: tcp:ok+
+
+2024-09-07 23:55:10,333 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 192.168.56.1:8301@haikou, region: unknown, msg: tcp:ok+
+
+2024-09-07 23:55:13,831 INFO serviceName: DEFAULT_GROUP@@borrow-service {POS} {IP-ENABLED} valid: 192.168.56.1:8301@DEFAULT, region: unknown, msg: tcp:ok+
+
